@@ -1,7 +1,8 @@
 # -------------------------------------------
-# Test the following statements in PyCharm
-
-# Available under GNU public license
+# Test the following statements in PyCharm.
+#
+# (C) 2021 Aravind Rajesh Kanna, LYIT
+# Available under GNU public license (GPL)
 # -------------------------------------------
 
 

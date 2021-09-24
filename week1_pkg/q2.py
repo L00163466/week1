@@ -1,7 +1,8 @@
 # -------------------------------------------
-# Using multiple print statements
-
-# Available under GNU public license
+# Using multiple print statements for low level graphics.
+#
+# (C) 2021 Aravind Rajesh Kanna, LYIT
+# Available under GNU public license (GPL)
 # -------------------------------------------
 
 
