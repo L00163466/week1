@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Test the following statements in PyCharm
+# Using multiple print statements
 
 # Available under GNU public license
 # -------------------------------------------
