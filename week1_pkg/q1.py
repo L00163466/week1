@@ -1,5 +1,7 @@
 # -------------------------------------------
 # Test the following statements in PyCharm
+
+# Available under GNU public license
 # -------------------------------------------
 
 
